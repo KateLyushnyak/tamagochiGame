@@ -1,0 +1,24 @@
+inherited toy_LgXhdpiTb: Ttoy_LgXhdpiTb
+  ClientHeight = 829
+  ClientWidth = 480
+  DesignerMasterStyle = 0
+  inherited pichu: TImage
+    MultiResBitmap.Height = 843
+    MultiResBitmap.Width = 588
+  end
+  inherited pikachu: TImage
+    MultiResBitmap.Height = 842
+    MultiResBitmap.Width = 588
+    Enabled = False
+  end
+  inherited raichu: TImage
+    MultiResBitmap.Height = 844
+    MultiResBitmap.Width = 588
+    Enabled = False
+  end
+  inherited deadTamagochi: TImage
+    MultiResBitmap.Height = 844
+    MultiResBitmap.Width = 588
+    Enabled = False
+  end
+end
